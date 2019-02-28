@@ -1,0 +1,1 @@
+https://us-central1-angelic-hold-233120.cloudfunctions.net/fetch-weather-data-function
